@@ -58,3 +58,5 @@ python "import requests.py"
 
 MIT License
 
+<img width="732" height="661" alt="image" src="https://github.com/user-attachments/assets/26d44185-5a33-4492-839c-c4fffb52897b" />
+
